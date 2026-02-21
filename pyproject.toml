@@ -1,0 +1,10 @@
+[project]
+name = "nethack"
+version = "0.1.0"
+description = "Network analysis and packet capture."
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "pyqt5>=5.15.11",
+    "scapy>=2.7.0",
+]
